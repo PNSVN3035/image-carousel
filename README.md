@@ -1,4 +1,4 @@
-# Welcome to Form Image Carousel
+# Welcome to Image Carousel
 
 ## Technologies Used
 - HTML, CSS & JAVASCRIPT
